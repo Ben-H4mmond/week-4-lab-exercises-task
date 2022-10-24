@@ -4,11 +4,17 @@ img {
 }
 
 header {
-  background-color: blueviolet;
-  align-items: center;
+  background-color: darkblue;
+  align-items: center;margin-top: 10px;
 }
 
 h1 {
   padding: 6vh;
   font-weight: bold;
+}
+
+.nav-link{
+  vertical-align: middle;
+  display: inline;
+  
 }
